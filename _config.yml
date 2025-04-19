@@ -6,8 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Zahra
 middle_name:
 last_name: TehraniNasab
-contact_note: >
-  You can contact me via my email.
+contact_note:
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   I am a graduate student at McGill and Mila. My work focuses on the intersection of Computer Vision and Natural Language Processing. I am particularly interested in utilizing the vision-language foundation models to solve real-world problems.
 footer_text: >
