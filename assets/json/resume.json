@@ -72,7 +72,7 @@
     {
       "name": "Language-Guided Trajectory Traversal in Disentangled Stable Diffusion Latent Space for Factorized Medical Image Generation",
       "publisher": "MIV-CVPR Workshop Proceedings 2025",
-      "releaseDate":"",
+      "releaseDate": "",
       "url": "https://arxiv.org/abs/2503.23623",
       "summary": ""
     },
@@ -113,10 +113,7 @@
       "startDate": "2021-12-01",
       "endDate": "2022-07-01",
       "summary": "Improved state-of-the-art models for Human Pose Prediction.",
-      "highlights": [
-        "Integrated predictive uncertainty into models (+2–5% improvement).",
-        "Maintained deep learning library with team of 5."
-      ]
+      "highlights": ["Integrated predictive uncertainty into models (+2–5% improvement).", "Maintained deep learning library with team of 5."]
     },
     {
       "name": "University of California Irvine (UCI)",
@@ -137,10 +134,7 @@
       "startDate": "2022-10-01",
       "endDate": "2023-08-01",
       "summary": "Worked on blockchain technologies and led peer-to-peer cryptocurrency exchange software development.",
-      "highlights": [
-        "Developed an open-source commit review tool",
-        "Contributed to FSharpLint, commitlint, lnp2pBot, fsx"
-      ]
+      "highlights": ["Developed an open-source commit review tool", "Contributed to FSharpLint, commitlint, lnp2pBot, fsx"]
     }
   ],
   "volunteer": [],
@@ -150,26 +144,13 @@
       "name": "Programming",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Python",
-        "Typescript",
-        "F#",
-        "Java",
-        "Matlab",
-        "Octave"
-      ]
+      "keywords": ["Python", "Typescript", "F#", "Java", "Matlab", "Octave"]
     },
     {
       "name": "Developer Tools",
       "level": "",
       "icon": "",
-      "keywords": [
-        "Linux",
-        "Windows",
-        "Git",
-        "GitHub",
-        "Tmux"
-      ]
+      "keywords": ["Linux", "Windows", "Git", "GitHub", "Tmux"]
     },
     {
       "name": "Deep Learning",
