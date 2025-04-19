@@ -5,9 +5,9 @@ permalink: /
 subtitle:
 
 profile:
-  align: right
+  align: left
   image: prof_pic.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info:
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -24,7 +24,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm Zahra, a curious mind who enjoys solving real world problems with creativity. Whether it's a tough research question or a half-baked idea I get excited about turning complex problems into elegant solutions. Currently, I am a Master's student and researcher at MILA (Quebec AI Institute) and McGill University. I am working on Generative Modeling, Computer Vision and Vision-Language Foundation Models under the supervision of Professor Tal Arbel.
+Hi! I'm Zahra, a curious mind who enjoys solving real world problems with creativity. Currently, I am a Master's student and researcher at MILA (Quebec AI Institute) and McGill University. I am working on Generative Modeling, Computer Vision and Vision-Language Foundation Models under the supervision of Professor Tal Arbel.
 
 I received my Bachelor of Science in Computer Science from Sharif University of Technology. During this time, I completed a research internship at the VITA Lab at EPFL, where I worked on modeling uncertainty in human pose prediction. As part of a team of four, we developed a deep learning library called posepred, which integrates state-of-the-art pose prediction models, datasets, and evaluation metrics. I also interned on a food computing project under the supervision of Professor Ramesh Jain, where I gained hands-on experience with graph neural networks, transformers, and natural language processing. For my B.Sc. thesis, I worked on a Virtual Try-On project under the supervision of Professor Mostafa Kamali Tabrizi. This project gave me experience with generative models such as GANs, Conditional GANs (C-GANs), and teacher-student networks for knowledge distillation. I also worked with techniques in human pose estimation, inpainting, and optical flow.
 
