@@ -26,7 +26,7 @@
       "institution": "McGill University",
       "location": "Montreal, Canada",
       "url": "",
-      "area": "Electrical and ComputerEngineering",
+      "area": "Electrical and Computer Engineering",
       "studyType": "Master of Science (Thesis)",
       "startDate": "2023-08-01",
       "endDate": "",
@@ -70,11 +70,11 @@
   ],
   "publications": [
     {
-      "name": "Language-Guided Trajectory Traversal in Disentangled Stable Diffusion Latent Space for Factorized Medical Image Generation",
-      "publisher": "MIV-CVPR Workshop Proceedings 2025",
-      "releaseDate": "",
-      "url": "https://arxiv.org/abs/2503.23623",
-      "summary": ""
+        "name": "Towards Reliable Human Pose Forecasting with Uncertainty",
+        "publisher": "IEEE Robotics and Automation Letters",
+        "releaseDate": "",
+        "url": "https://arxiv.org/abs/2304.06707",
+        "summary": ""
     },
     {
       "name": "RL4Med-DDPO: Reinforcement Learning for Controlled Guidance Towards Diverse Medical Image Generation using Vision-Language Foundation Models",
@@ -84,11 +84,11 @@
       "summary": ""
     },
     {
-      "name": "Towards Reliable Human Pose Forecasting with Uncertainty",
-      "publisher": "IEEE Robotics and Automation Letters",
-      "releaseDate": "",
-      "url": "https://arxiv.org/abs/2304.06707",
-      "summary": ""
+        "name": "Language-Guided Trajectory Traversal in Disentangled Stable Diffusion Latent Space for Factorized Medical Image Generation",
+        "publisher": "MIV-CVPR Workshop Proceedings 2025",
+        "releaseDate": "",
+        "url": "https://arxiv.org/abs/2503.23623",
+        "summary": ""
     }
   ],
 
@@ -139,6 +139,24 @@
   ],
   "volunteer": [],
   "certificates": [],
+  "projects": [
+    {
+      "name": "Persian Spell Correction",
+      "summary": "Designed and implemented a transformer-based model for correcting Persian text spelling.",
+      "highlights": [],
+      "startDate": "2022-06-01",
+      "endDate": "2022-07-01",
+      "url": ""
+    },
+    {
+      "name": "Posepred",
+      "summary": "Developed a library for integrating and comparing state-of-the-art human pose prediction models.",
+      "highlights": [],
+      "startDate": "2021-12-01",
+      "endDate": "2022-07-01",
+      "url": ""
+    }
+  ],
   "skills": [
     {
       "name": "Programming",
@@ -174,25 +192,18 @@
       ]
     }
   ],
-  "languages": [],
   "interests": [],
   "references": [],
-  "projects": [
+  "languages": [
     {
-      "name": "Persian Spell Correction",
-      "summary": "Designed and implemented a transformer-based model for correcting Persian text spelling.",
-      "highlights": [],
-      "startDate": "2022-06-01",
-      "endDate": "2022-07-01",
-      "url": ""
+        "language": "English",
+        "fluency": "Fluent",
+        "icon": ""
     },
     {
-      "name": "Posepred",
-      "summary": "Developed a library for integrating and comparing state-of-the-art human pose prediction models.",
-      "highlights": [],
-      "startDate": "2021-12-01",
-      "endDate": "2022-07-01",
-      "url": ""
+        "language": "Persian",
+        "fluency": "Native",
+        "icon": ""
     }
   ]
 }
